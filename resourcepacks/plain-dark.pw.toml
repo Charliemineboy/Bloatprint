@@ -1,0 +1,13 @@
+name = "Plain Dark"
+filename = "Plain Dark - 1.20.2-26.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UOZQeGqY/versions/9naboloH/Plain%20Dark%20-%201.20.2-26.x.zip"
+hash-format = "sha512"
+hash = "4c43ba839802fce507a81e0b661b4163bab38aafa776a89c853e83e91dddd2ee95258570391924ea5343f3294ea6923011cde7173ccbf19c73a04556d7daa76a"
+
+[update]
+[update.modrinth]
+mod-id = "UOZQeGqY"
+version = "9naboloH"

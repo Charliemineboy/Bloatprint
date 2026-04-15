@@ -16,9 +16,9 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    '!computercraft:turtle_.*',
     'create_connected:control_chip',
     'create_connected:fan_sanding_catalyst',
+    'create_connected:fan_freezing_catalyst',
     'create_connected:fan_ending_catalyst_dragons_breath',
     'create_connected:fan_ending_catalyst_dragon_head'
   ],

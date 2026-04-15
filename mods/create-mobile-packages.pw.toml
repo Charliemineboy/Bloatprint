@@ -1,13 +1,13 @@
 name = "Create: Mobile Packages"
-filename = "create_mobile_packages-1.21.1-0.6.0.jar"
+filename = "create_mobile_packages-1.21.1-0.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1vXRfEHZ/versions/aXkvlA4D/create_mobile_packages-1.21.1-0.6.0.jar"
+url = "https://cdn.modrinth.com/data/1vXRfEHZ/versions/AXLWkdx1/create_mobile_packages-1.21.1-0.7.0.jar"
 hash-format = "sha512"
-hash = "378cc9f580b35965377942699fe994134fab2b77e9a7c49405c4d01bd0e1d0124e40e92900a5a027966aff147f7c9ab016bb9efb317b1fe1a19324e0994b5ff8"
+hash = "6e0c80d1d478af9a55dc97fdcb41ddf47f3121b4d10528bdab1bee037e4cbc97649f685e7332775598f0c898f6782aada552c89462d4ab8cc081d38152c4c24b"
 
 [update]
 [update.modrinth]
 mod-id = "1vXRfEHZ"
-version = "aXkvlA4D"
+version = "AXLWkdx1"
