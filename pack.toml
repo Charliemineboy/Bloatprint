@@ -1,16 +1,16 @@
 name = "Blueprint"
 author = "ItsPercent"
-version = "3.2.0"
+version = "3.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d3293d4ae1545d270a27738f09bd7b85bf1806a82ba3251f6e1453129299d248"
+hash = "8bb500c09cc1e2b42175acef50cac933d6ec2aa190b5451d2129e993e04b7589"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.226"
 
 [options]
-datapack-folder = "config/paxi/datapacks/"
+datapack-folder = "datapacks"

@@ -1,0 +1,13 @@
+name = "Unnamed Create Computers Resource Pack"
+filename = "Unnamed_Create_Computers_Resource_Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l9O0QGMj/versions/XbJek3Tg/Unnamed_Create_Computers_Resource_Pack.zip"
+hash-format = "sha512"
+hash = "8d9db40d4269ccdd9eb78dbbee98c6c70c272fc7510343fbfea347f74bae88d5b770bc5d632a4f8acedd785b6f92a94fab60e05558461163a4fd484a4e21ba3b"
+
+[update]
+[update.modrinth]
+mod-id = "l9O0QGMj"
+version = "XbJek3Tg"
