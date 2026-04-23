@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "09441550b3c5303e6afcd39866409f85f51128324778ec4caa4ca27a120d94b0"
+hash = "265409173a80ba7abcccdc71a60cf79a8116bb51ad7c12d9dfc66b1ede59aecb"
 
 [[files]]
 file = "LICENSE"
@@ -679,11 +679,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/simple-datapacks.pw.toml"
-hash = "e33f126198bd780e7963c54a9c08fc6a7753ff3d43a82977803caee8adb76200"
 metafile = true
 
 [[files]]
