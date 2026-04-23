@@ -1,5 +1,5 @@
 name = "Sable Touys"
-filename = "touys-neoforge-1.21.1-1.0.4-!USE_W/_AERO!.jar"
+filename = "touys-neoforge-1.21.1-1.0.4.jar"
 side = "both"
 
 [download]
@@ -11,7 +11,3 @@ hash = "6e6b257a6e78775d280e8e50386e8201f6cfac9893508f1a4cc4f51a2f133a4761c46f89
 [update.modrinth]
 mod-id = "HHlTF7u0"
 version = "pY3rOWmS"
-
-[option]
-optional = true
-default = false

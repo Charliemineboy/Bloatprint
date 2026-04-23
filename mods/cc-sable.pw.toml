@@ -1,5 +1,5 @@
 name = "CC: Sable"
-filename = "cc_sable-neoforge-1.2.2-!USE_W/_AERO!.jar"
+filename = "cc_sable-neoforge-1.2.2.jar"
 side = "both"
 
 [download]
@@ -11,7 +11,3 @@ hash = "4fd4b0b105c83497957c1281e94d49db95e1626b078b4446bd355f38b08d639e725ed838
 [update.modrinth]
 mod-id = "OPNBxiZD"
 version = "WeMVsTHt"
-
-[option]
-optional = true
-default = false
