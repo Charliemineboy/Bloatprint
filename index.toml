@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "f8cffffd5ea8246c3128429dab47700790cef588a79576a0f12a87f5582749bf"
+hash = "ec77c92f494a0e54c97bc221ee7e36ddc18e6e4c7dd2ba8484624ce1ebb2c0ad"
 
 [[files]]
 file = "LICENSE"
@@ -658,11 +658,6 @@ hash = "1121ffc2012bbbf0b619a16b953d5951c41a9ef545285d01f31995b3ba6b2b8c"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
-metafile = true
-
-[[files]]
 file = "mods/platform.pw.toml"
 hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
 metafile = true
@@ -689,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpl.pw.toml"
-hash = "15cfe83ff1fc4cb326844aa98daa9390fa0b699e01aeb9661ae6d8e2d7372cb0"
+hash = "099beba3434c25fa41dfbc1cc993cc5ab9c4f0263ec466cf65fcf7f71f97468d"
 metafile = true
 
 [[files]]
@@ -780,11 +775,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]

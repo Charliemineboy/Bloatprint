@@ -1,12 +1,12 @@
 name = "Blueprint"
 author = "ItsPercent"
-version = "3.3.0"
+version = "3.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8bb500c09cc1e2b42175acef50cac933d6ec2aa190b5451d2129e993e04b7589"
+hash = "658dca66cd3fd101f738ff32c744e78a4ea8fc65f9c84350fefb275bfb7a6052"
 
 [versions]
 minecraft = "1.21.1"
