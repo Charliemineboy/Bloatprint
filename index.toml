@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "3b5cf8aaa7c14ccd611ab63a68045bfe1b41af53fb368eb742ec9a0ba1c937f4"
+hash = "6927fe1d022629e1245970d4086f787d7d055673b2ac6bfa35a0d5dbaad269c2"
 
 [[files]]
 file = "LICENSE"
@@ -219,11 +219,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "846092e136bc6ef3d1c0d68c1ebd02e404811a6726ac0790fd2b29d1f984fe4e"
 metafile = true
 
 [[files]]
