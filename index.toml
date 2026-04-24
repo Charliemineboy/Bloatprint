@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "265409173a80ba7abcccdc71a60cf79a8116bb51ad7c12d9dfc66b1ede59aecb"
+hash = "bfe81c158f915daffaa5919827f8d0779651aa714aa783be762d37af575851d0"
 
 [[files]]
 file = "LICENSE"
@@ -123,10 +123,6 @@ hash = "726ea26ae706b788e5254a910f6cda5b8a72daefa50e831a3d067f394686577c"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "a34752052536f3a08ddce29edcf3deed6ef4ee8b92cd3e5ad712ef63ddb042f3"
-
-[[files]]
-file = "config/simple_datapacks.json"
-hash = "deb5be22a8420ef6628b56aa6bd2e8ac2bab790bfd45301b5f717461348061d7"
 
 [[files]]
 file = "config/supplementaries-client.toml"
