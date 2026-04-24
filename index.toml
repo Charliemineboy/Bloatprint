@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "6927fe1d022629e1245970d4086f787d7d055673b2ac6bfa35a0d5dbaad269c2"
+hash = "0c62723bcb8c422869684e57cc43bda22d03a37c1f9c95656daac6bb40e51092"
 
 [[files]]
 file = "LICENSE"
@@ -47,6 +47,10 @@ hash = "6e0df464fc094392e22cd3c9898eaa9a0a0508a54fdcc9fff8c640d107e94caa"
 [[files]]
 file = "config/backpacked.pickpocketing.toml"
 hash = "39649cc668a96a7a5d88159f3d20878aa2bfcc1cc40d1a3cb0ce65ba7ced9ef3"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "8065c04c6c9e07183ab8dd94332f5f3f84970daa9fc119646d5b9c71a1c519e9"
 
 [[files]]
 file = "config/computercraft-server.toml"
@@ -89,6 +93,10 @@ file = "config/emi.css"
 hash = "0f0f03c7287216949f61e1fc7b4a16741ab074f8189d0bf7bb8be8be308b92b4"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "e5c5f9e8ed714f06c7f1d2ffdca6825f1ecd1f868fb2fb3eb55698ad11966d81"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "c27bf0985627c1b77b46557aac4dc6783994de61c3d10ea46fa034af867c98fb"
 
@@ -123,10 +131,6 @@ hash = "726ea26ae706b788e5254a910f6cda5b8a72daefa50e831a3d067f394686577c"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "a34752052536f3a08ddce29edcf3deed6ef4ee8b92cd3e5ad712ef63ddb042f3"
-
-[[files]]
-file = "config/simple_datapacks.json"
-hash = "deb5be22a8420ef6628b56aa6bd2e8ac2bab790bfd45301b5f717461348061d7"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -740,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "87cbe2af48ce5ccfbf4a81e72255b274ac3fe8f6cebc7df49a8f288fdbd75d9b"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "415c34027c175ac5aac4434cab94571f997644ecf6b758f3739e51909dec71df"
 metafile = true
 
 [[files]]
