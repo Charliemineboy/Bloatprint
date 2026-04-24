@@ -137,30 +137,6 @@ file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "8dc9c6a000e43ac49b4871a490f5f7013e772d8d5d81028b8268e86e2d6972be"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "4d7afea83d5ee84285ae6f6171fd66cd1a067529d1846d7e590ce013f57b2826"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "9ba288eb371691dc29ce908e9cd0bc301299c72d96db1a0a48bf777880fd9d01"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "4b4430cd9af55694faff728359eac6131f2400825409ab69a63063da5ae5bd02"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "39700f06a8134d6f453ddd4ebdf6410af1b95bfbfc040ced5ac2a44fcc27f76c"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "35f5d35f844afaa8c2e1efe4e5c433c2e5a112cdad82541db4a5aaa48a022b6c"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "f13a75868373d6bfd8374cb0e73cef788443260247187da7ef078a226729d004"
-
-[[files]]
 file = "kubejs/client_scripts/computercraft.js"
 hash = "186b82f20247b4dde55272222c3950d2566b49f693ce8d038253c00e30197295"
 
@@ -567,6 +543,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
@@ -584,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
 metafile = true
 
 [[files]]
@@ -729,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
