@@ -9,16 +9,16 @@ migrateCopycatsOnInitialize = true
 #Enable/disable features. Values on server override clients
 [features]
 	copycat_stairs = false
-	inverted_clutch = false
+	inverted_clutch = true
 	cross_connector = false
 	copycat_fence = false
-	fluid_vessel = false
+	fluid_vessel = true
 	parallel_gearbox = false
 	copycat_slab = false
 	six_way_gearbox = false
 	copycat_vertical_step = false
 	copycat_beam = false
-	inverted_gearshift = false
+	inverted_gearshift = true
 	copycat_board = false
 	inventory_access_port = false
 	copycat_block = false

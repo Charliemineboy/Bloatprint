@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "bfe81c158f915daffaa5919827f8d0779651aa714aa783be762d37af575851d0"
+hash = "af1fbfd6364aa690480078a1da57077f5df854fe47040f1b3d6e8bc73c13525a"
 
 [[files]]
 file = "LICENSE"
@@ -62,7 +62,7 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "6f716bf5a46972d9a4fc144dba90cb0fb42552e489bfe54f65e7a376412bdd72"
+hash = "a298cd545d00ed4d0c7c1ed968207e1b20012562f69755b3ce39516fa3db3e5e"
 
 [[files]]
 file = "config/create_cyber_goggles.toml"
@@ -157,8 +157,8 @@ file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "f13a75868373d6bfd8374cb0e73cef788443260247187da7ef078a226729d004"
 
 [[files]]
-file = "kubejs/client_scripts/computercraft.js"
-hash = "186b82f20247b4dde55272222c3950d2566b49f693ce8d038253c00e30197295"
+file = "kubejs/client_scripts/creative_items.js"
+hash = "20df4ef379d816f7eccaeee1d0fd10a61d9e3927a853470d8fdcd68a7b7f1101"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -189,8 +189,12 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "0c86655299ff87d98697aa52c85389802cfc0885ec1a19bd7d2962dd7f885103"
 
 [[files]]
-file = "kubejs/startup_scripts/computercraft.js"
-hash = "0ab0b6493017e8d612c27fbe7aaa5ef300dfccf80693947a3f081b64ad568779"
+file = "kubejs/startup_scripts/creative_items.js"
+hash = "da7932d92ce94c751d1d5a85fadc5b952f8c4d84feb6feb228160b9f02be8253"
+
+[[files]]
+file = "kubejs/startup_scripts/creative_menu.js"
+hash = "b1f533d3d8d6666322bc16307862d250d6a3b4d3efe487b962c052f212d2d29e"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "846092e136bc6ef3d1c0d68c1ebd02e404811a6726ac0790fd2b29d1f984fe4e"
+hash = "eea1d019c403a9e04aac19fdc48448febe51b79668b249ab2c1efef6033b7371"
 metafile = true
 
 [[files]]
