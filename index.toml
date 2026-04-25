@@ -130,7 +130,7 @@ hash = "12642ea9a7205959953198e7b124c12336dc6de7df1838f61d856329ae35ace8"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "bc1f3a43feec12242378d75cdce389cbbcd1a847efaef7ce5220d17b387fb204"
+hash = "b9a85b6b42690643e5ec9b14ec22c34f8193046a11c5db646f0cd52ffce356ae"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -162,7 +162,7 @@ hash = "20df4ef379d816f7eccaeee1d0fd10a61d9e3927a853470d8fdcd68a7b7f1101"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "17b94cb3b8908591563b3e2a33b402f9c27cff78ea202c33816c49648d1f2bbf"
+hash = "bf2e3d9bb87018e6ce19b1ed2e951ebde5da81c5077d02a253d5ec123ab429db"
 
 [[files]]
 file = "kubejs/config/common.json"
