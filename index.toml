@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "1c0dd03d01a57fee65b17fa8dac9486bcdead7de7a1bd02e3c8cbbfcf941d4cd"
+hash = "319b182a903c637ebab30c50edc2e23b56b154476beeedb7aea7b72c4fe7e50c"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "cee67a8b5abb2c03370d25b25b1cba88e9f7a1193838dceb1268d5e63dd31ec6"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
