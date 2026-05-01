@@ -17,12 +17,16 @@ file = ".idea/modules.xml"
 hash = "d7eeecbc11fae051fb6846b18e90069f248b363d9394f29eccbe3319f8a3860f"
 
 [[files]]
+file = ".idea/shelf/Uncommitted_changes_before_Update_at_5_1_26,_6_31 PM_[Changes]/shelved.patch"
+hash = "e14af559e753f6edca6d895b7ae5cacd427934e44a68ef8418bc41b15c68b387"
+
+[[files]]
 file = ".idea/vcs.xml"
 hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "4f9d3312cdd00f22cb4a3d781e97ec5578e247d4dfcabe2d0f590826f952ca49"
+hash = "96b7a5049ebfe35a939c17c73641e83776b163122567f8f447a8d8308e055609"
 
 [[files]]
 file = "LICENSE"
@@ -122,7 +126,7 @@ hash = "726ea26ae706b788e5254a910f6cda5b8a72daefa50e831a3d067f394686577c"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a34752052536f3a08ddce29edcf3deed6ef4ee8b92cd3e5ad712ef63ddb042f3"
+hash = "31c49825d8a344e7502bf562acd8159bb90b70a4055ec1fccc877cb096521990"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -460,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -895,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
