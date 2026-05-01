@@ -1,5 +1,4 @@
 darkMojangStudiosBackground:true
 directionalAudio:true
 skipMultiplayerWarning:true
-key_axiom.keybind.context:key.keyboard.tab
 soundCategory_music:0.1
