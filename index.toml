@@ -33,18 +33,6 @@ file = "README.md"
 hash = "8d0ca852e99c8ec6cd0498be370d9cf4838958844489d4c64ab77f1b5e8902d6"
 
 [[files]]
-file = "config/axiom/.axiom.json.backup"
-hash = "eb676253cd67509274c7815c9ded1532153af712275721295fdf85b3036c8853"
-
-[[files]]
-file = "config/axiom/axiom.json"
-hash = "eb676253cd67509274c7815c9ded1532153af712275721295fdf85b3036c8853"
-
-[[files]]
-file = "config/axiom/imgui.ini"
-hash = "6e0df464fc094392e22cd3c9898eaa9a0a0508a54fdcc9fff8c640d107e94caa"
-
-[[files]]
 file = "config/backpacked.pickpocketing.toml"
 hash = "39649cc668a96a7a5d88159f3d20878aa2bfcc1cc40d1a3cb0ce65ba7ced9ef3"
 
@@ -66,7 +54,7 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "6f716bf5a46972d9a4fc144dba90cb0fb42552e489bfe54f65e7a376412bdd72"
+hash = "f18975e7c15922d4ba8c91c91710930dfe1d8bb071c09d4c5e6fea47bd97f5d5"
 
 [[files]]
 file = "config/create_cyber_goggles.toml"
@@ -75,6 +63,10 @@ hash = "d44c11043b0904fbc0f24b8bb1d542fd4b5c1f604bed95e4192e1bcffef2b445"
 [[files]]
 file = "config/create_dragons_plus-common.toml"
 hash = "ea2ad728a067d7dfffd0ae633c52faf2636ba7da03508f83606c2910cd75c5eb"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-common.toml"
+hash = "e13da6095c460b9af7e312d815f3ea90bd3da99dd06ea10c2f2994350b708b1b"
 
 [[files]]
 file = "config/create_mobile_packages-server.toml"
@@ -141,8 +133,8 @@ file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "8dc9c6a000e43ac49b4871a490f5f7013e772d8d5d81028b8268e86e2d6972be"
 
 [[files]]
-file = "kubejs/client_scripts/computercraft.js"
-hash = "186b82f20247b4dde55272222c3950d2566b49f693ce8d038253c00e30197295"
+file = "kubejs/client_scripts/creative_items.js"
+hash = "20df4ef379d816f7eccaeee1d0fd10a61d9e3927a853470d8fdcd68a7b7f1101"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -154,7 +146,7 @@ hash = "4acaf256c1ddbbc1ff32969a6f2cf9e70856533a547d240b0100a76f1832cc6b"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "6fe515ab77a96d09722a40e66afd71d75c589b4fff3b20308911f81b9bcb55f0"
+hash = "7d4bce5664a0b8f9222dafadb3f5f9e679c004e811982a18dab9fe452b6615df"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -173,8 +165,12 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "0c86655299ff87d98697aa52c85389802cfc0885ec1a19bd7d2962dd7f885103"
 
 [[files]]
-file = "kubejs/startup_scripts/computercraft.js"
-hash = "0ab0b6493017e8d612c27fbe7aaa5ef300dfccf80693947a3f081b64ad568779"
+file = "kubejs/startup_scripts/creative_items.js"
+hash = "da7932d92ce94c751d1d5a85fadc5b952f8c4d84feb6feb228160b9f02be8253"
+
+[[files]]
+file = "kubejs/startup_scripts/creative_menu.js"
+hash = "b1f533d3d8d6666322bc16307862d250d6a3b4d3efe487b962c052f212d2d29e"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -228,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
+hash = "be9b84747fbddabebaaa182dfc3a4bb3f0b9d8c5a5473b6fd8fe92776458832e"
 metafile = true
 
 [[files]]
@@ -258,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
@@ -328,12 +324,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
 file = "mods/create-blueprinted.pw.toml"
-hash = "74d1aba4f45292d3d9513905deaaac0d80eee6bcbbaaaf64e20a853679831760"
+hash = "581b5f39c4b334409fd4eae24116229ff4aa3620dd249b6bfa5601648edcfd16"
 metafile = true
 
 [[files]]
@@ -343,12 +344,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
 metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "1c0dd03d01a57fee65b17fa8dac9486bcdead7de7a1bd02e3c8cbbfcf941d4cd"
+hash = "f3abd6cc1d37327326b8d3fad5e684749387fdf5bc8ca18ac2d370622ae77834"
 metafile = true
 
 [[files]]
@@ -398,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
@@ -409,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -618,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
 metafile = true
 
 [[files]]
@@ -653,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
+hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
@@ -762,8 +768,13 @@ hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -823,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/touys.pw.toml"
-hash = "988e8254afb33affed9b813482a5d55406333671a540b1852eabf7e6862f7590"
+hash = "54e20f405bc465dcb41aaaa2c13b29d31e41c947f086d3f6a21c808201690d61"
 metafile = true
 
 [[files]]
@@ -834,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
+metafile = true
+
+[[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
 
 [[files]]
@@ -863,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "cee67a8b5abb2c03370d25b25b1cba88e9f7a1193838dceb1268d5e63dd31ec6"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
